@@ -1,1 +1,1 @@
-# Capstone_EDA_Global_Terrorism_Analysis
+# Global Terrorism Analysis
