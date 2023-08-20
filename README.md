@@ -34,7 +34,7 @@ A column named **casualties** was created from the columns of **killed** and **w
 
 ## Data Analysis Structure
 
-The dataset is analysed in three separate sections, each of which contain multiple sub-sections. The sections are, namely:
+The dataset is analysed in three separate sections, each of which contain multiple sub-sections. Various kinds of plots such as line-plots, bar-plots, combined line-bar plots, pie-charts, and geographical heatmaps have been used in this project, mostly using libraries such as **plotly** and **folium**. The sections are, namely:
 
 1. **Global Analysis**: In this section, the entire dataset is considered for a holistic analysis, for all countries of attack and all terrorist organisations, to understand the general characteristics of terrorist attacks and their effect on the populace. Both univariate and bivariate analyses is performed, for various features such as the attack type, yearly variation of attacks, target type etc, for all the impact metrics.
 2. **Local Analysis** This section involves analysis on a subset of the dataset, of specific countries of interest. These countries are chosen based on the heatmap and/or the plots which display hot-spots of terrorist activities. The countries chosen are **Iraq**, **Afghanistan**, **Pakistan** and **India**.
