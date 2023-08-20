@@ -10,6 +10,7 @@
 5. [Libraries Used](#libraries-used)
 6. [Contact](#contact)
 </details>
+
 **NOTE:** [Link](https://colab.research.google.com/drive/1Q5w427QdJv90X6XA8wfqMfqQSB4c7jUy?usp=drive_link) to the final notebook in case it does not open in Colab. Otherwise use **nbviewer** to view plotly and folium visualizations.
 
 ## About the Project
