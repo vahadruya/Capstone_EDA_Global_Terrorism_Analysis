@@ -1,4 +1,4 @@
-# Global Terrorism Analysis
+# Global Terrorism Dataset Analysis
 
 <details>
 <summary>Table of Contents</summary>
